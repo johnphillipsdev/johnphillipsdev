@@ -1,4 +1,5 @@
 <h1><img src="https://github.com/johnphillipsdev/johnphillipsdev/assets/119289068/01c4b1f8-213b-429a-ae23-828e4515c1c6" width="30"/> Hey! Nice to see you.</h1>
+![persian_cat_room_guardian_wat](https://github.com/johnphillipsdev/johnphillipsdev/assets/119289068/77dea79a-fdfc-4380-82b4-a66cf4526bbb)
 
 <!--
 **johnphillipsdev/johnphillipsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
