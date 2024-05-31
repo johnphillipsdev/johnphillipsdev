@@ -1,5 +1,5 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-https://slackmojis.com/emojis/79675-cathelloq
+<h1><img src="https://github.com/johnphillipsdev/johnphillipsdev/assets/119289068/01c4b1f8-213b-429a-ae23-828e4515c1c6" width="30"/> Hey! Nice to see you.</h1>
+
 <!--
 **johnphillipsdev/johnphillipsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
