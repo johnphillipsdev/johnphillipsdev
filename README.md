@@ -88,7 +88,7 @@ Also check out my pinned repositories!
 - 🔍 [OpenAPI Web Search](https://vinitshahdeo.dev/open-api-web-search) *(part of [GSoC at Postman](https://blog.postman.com/postmans-projects-and-contributors-google-summer-of-code-2023/))*
 - 💧 [Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System) *(part of [Rails Girls Summer Of Code](https://twitter.com/Vinit_Shahdeo/status/1234936360613695489))*
 - 🦠 [COVID-19 Tracker](https://github.com/vinitshahdeo/COVID19) *(featured in [newspapers](https://thenewskhazana.com/story/meet-vinit-shahdeo-a-resident-of-jharkhand-has-been-recognized-as-a-github-star-22451/), [blogs](https://www.ranchiblog.in/vinit-shahdeo-github-star-from-jharkhand-india/vinit-shahdeo-github-star-from-india/))*
--->
+
 
 <hr />
 
@@ -96,11 +96,14 @@ Also check out my pinned repositories!
 <p>Just a small area featuring snippets of my life outside of development.</p>
 
 <h3>30 Day Skills</h3>
-<i>Every 30 days I intend/try to learn a random skill within a 30 day period, here are some things I'm doing:</i>
+<i>Every 30 days I try to learn a new skill, or create something new, below is a list of my current achievements:</i>
 
+<br />
 <br />
 
 <ul>
-  <li>Community Server </li>
-  <li>Music Mixing</li>
+  <li>Discord App Developemnt (Creating a Community Server) - </li>
+  <li>Music Mixing - </li>
 </ul>
+
+-->
