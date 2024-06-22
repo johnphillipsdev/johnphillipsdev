@@ -91,6 +91,17 @@
   * 🤝  I'm open to collaborating on interesting projects (Espeically when learning new skills)
   * ⚡  I'm hooked on Ice-cream
 
+<h3>🎯 What I've been up to!</h3>
+<i>Every 30 days I try to learn a new skill, or create something new, below is a list of my current achievements:</i>
+
+<br />
+<br />
+
+<ul>
+  <li>Discord App Developemnt (Creating a Community Server) - </li>
+  <li>Music Mixing - </li>
+</ul>
+
 <!-- 
 ### Featured blogs/articles
 
@@ -108,16 +119,7 @@ Also check out my pinned repositories!
 - 💧 [Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System) *(part of [Rails Girls Summer Of Code](https://twitter.com/Vinit_Shahdeo/status/1234936360613695489))*
 - 🦠 [COVID-19 Tracker](https://github.com/vinitshahdeo/COVID19) *(featured in [newspapers](https://thenewskhazana.com/story/meet-vinit-shahdeo-a-resident-of-jharkhand-has-been-recognized-as-a-github-star-22451/), [blogs](https://www.ranchiblog.in/vinit-shahdeo-github-star-from-jharkhand-india/vinit-shahdeo-github-star-from-india/))*
 
-<h3>What I've been up to!</h3>
-<i>Every 30 days I try to learn a new skill, or create something new, below is a list of my current achievements:</i>
 
-<br />
-<br />
-
-<ul>
-  <li>Discord App Developemnt (Creating a Community Server) - </li>
-  <li>Music Mixing - </li>
-</ul>
 
 -->
 
