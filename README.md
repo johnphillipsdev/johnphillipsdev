@@ -3,6 +3,7 @@
 <ul>
   <li><a href="#who-am-i">Who am I?</a></li>
   <li><a href="#my-experiences-tools--skills">My Experiences, Tools & Skills</a></li>
+  <li><a href="#my-life">My Life</a></li>
 </ul>
 
 <div>
@@ -79,7 +80,7 @@
 
 </p>
 <hr />
-<h2>🧬 My Life</h2>
+<h2 id="my-life">🧬 My Life</h2>
 <p>Just a small area featuring snippets of my life outside of development.</p>
 
 <h3>My Details</h3>
@@ -98,7 +99,7 @@
 <br />
 
 <ul>
-  <li>Discord App Developemnt (Creating a Community Server) </li>
+  <li>Discord App Development (Creating a Community Server) </li>
   <li>Creating & Mixing Music</li>
 </ul>
 
