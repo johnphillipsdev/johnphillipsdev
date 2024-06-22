@@ -7,15 +7,22 @@
 
 <div>
   <h2 id="who-am-i">Who am I?</h2>
+  
   <p>
     Welcome to my profile and thank you for taking the time to visit. I'm John, known online as Cold. I'm a self-taught frontend developer passionate about learning the latest tech trends. This space serves as my hub for all things development, including apps, work, freelance projects, and other cool stuff.
   </p>
 
-  <img src="https://cataas.com/cat/gif" alt="Random Cat Meme">
+<img src="https://cataas.com/cat/gif" alt="Random Cat Meme">
+
+
+
+<!-- * 🚀  I'm currently working on [peterparker.com](http://peterparker.com)</li> -->
+
 
   <p>
     As you scroll down, you'll find more about my day-to-day life, the skills I learn, the photos I take, and the things I write. But enough about me! I'd love to learn about you too, so feel free to drop a message on my socials and say hi!
   </p>
+
 </div>
 
 <h2 id="my-experiences-tools--skills">My Experiences, Tools & Skills</h2>
@@ -71,8 +78,18 @@
 <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
 
 </p>
+<hr />
+<h2>🧬 My Life</h2>
+<p>Just a small area featuring snippets of my life outside of development.</p>
 
-<h2>What I've been up to</h2>
+<h3>My Details</h3>
+
+  * 🌍  I'm based in United Kingdom
+  * 🖥️ See my portfolio at [johnphillips.dev](johnphillips.dev)
+  * ✉️  You can contact me at [development@johnphillips.dev](mailto:development@johnphillips.dev)
+  * 🧠  I'm learning how to mix music
+  * 🤝  I'm open to collaborating on interesting projects (Espeically when learning new skills)
+  * ⚡  I'm hooked on Ice-cream
 
 <!-- 
 ### Featured blogs/articles
@@ -91,13 +108,7 @@ Also check out my pinned repositories!
 - 💧 [Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System) *(part of [Rails Girls Summer Of Code](https://twitter.com/Vinit_Shahdeo/status/1234936360613695489))*
 - 🦠 [COVID-19 Tracker](https://github.com/vinitshahdeo/COVID19) *(featured in [newspapers](https://thenewskhazana.com/story/meet-vinit-shahdeo-a-resident-of-jharkhand-has-been-recognized-as-a-github-star-22451/), [blogs](https://www.ranchiblog.in/vinit-shahdeo-github-star-from-jharkhand-india/vinit-shahdeo-github-star-from-india/))*
 
-
-<hr />
-
-<h2>🧬 My Life</h2>
-<p>Just a small area featuring snippets of my life outside of development.</p>
-
-<h3>30 Day Skills</h3>
+<h3>What I've been up to!</h3>
 <i>Every 30 days I try to learn a new skill, or create something new, below is a list of my current achievements:</i>
 
 <br />
@@ -109,3 +120,4 @@ Also check out my pinned repositories!
 </ul>
 
 -->
+
