@@ -85,7 +85,7 @@
 <h3>My Details</h3>
 
   * 🌍  I'm based in United Kingdom
-  * 🖥️ See my portfolio at [johnphillips.dev](johnphillips.dev)
+  * 🖥️ See my portfolio at [johnphillips.dev](https://www.johnphillips.dev/)
   * ✉️  You can contact me at [development@johnphillips.dev](mailto:development@johnphillips.dev)
   * 🧠  I'm learning how to mix music
   * 🤝  I'm open to collaborating on interesting projects (Espeically when learning new skills)
