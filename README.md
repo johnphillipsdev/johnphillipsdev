@@ -99,7 +99,7 @@
 
 <ul>
   <li>Discord App Developemnt (Creating a Community Server) - </li>
-  <li>Music Mixing - </li>
+  <li>Creating & Mixing Music</li>
 </ul>
 
 <!-- 
