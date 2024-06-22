@@ -91,7 +91,7 @@
   * 🤝  I'm open to collaborating on interesting projects (Espeically when learning new skills)
   * ⚡  I'm hooked on Ice-cream
 
-<h3>🎯 What I've been up to!</h3>
+<h3>🎯 My Random Skills</h3>
 <i>Every 30 days I try to learn a new skill, or create something new, below is a list of my current achievements:</i>
 
 <br />
