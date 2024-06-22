@@ -1,4 +1,4 @@
-<h1><img src="https://github.com/johnphillipsdev/johnphillipsdev/assets/119289068/d1a6fad5-8bb9-4664-ad14-60048738d01e" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://github.com/johnphillipsdev/johnphillipsdev/assets/119289068/d1a6fad5-8bb9-4664-ad14-60048738d01e" width="30"/> Hey! Thanks for visiting my profile.</h1>
 
 <!--
 **johnphillipsdev/johnphillipsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
