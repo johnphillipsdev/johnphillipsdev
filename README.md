@@ -20,9 +20,11 @@
 
 <h2 id="my-experiences-tools--skills">My Experiences, Tools & Skills</h2>
 
+<b>📊 Stats:</b>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=johnphillipsdev&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-<b>Skills & Tools</b>
+<b>⭐ Skills & Tools</b>
 <p>
   <img alt="Shopify" src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
   <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
@@ -92,7 +94,7 @@ Also check out my pinned repositories!
 
 <hr />
 
-<h2>My Life</h2>
+<h2>🧬 My Life</h2>
 <p>Just a small area featuring snippets of my life outside of development.</p>
 
 <h3>30 Day Skills</h3>
