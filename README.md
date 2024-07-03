@@ -92,6 +92,9 @@
   * 🤝  I'm open to collaborating on interesting projects (Especially when learning new skills)
   * ⚡  I'm hooked on Ice-cream
 
+
+
+<!-- 
 <h3>🎯 My Random Skills</h3>
 <i>Every 30 days I try to learn a new skill, or create something new, below is a list of my current achievements:</i>
 
@@ -103,7 +106,6 @@
   <li>Creating & Mixing Music</li>
 </ul>
 
-<!-- 
 ### Featured blogs/articles
 
 - 📖 [A Developer’s Story – Vinit Shahdeo](https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/)
