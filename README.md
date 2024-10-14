@@ -76,7 +76,9 @@
   <img alt=".env" src="https://img.shields.io/badge/.env-000000?style=flat-square&logo=dotenv&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-<img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+  <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+  <img alt="Shadcn" src="https://img.shields.io/badge/-Shadcn UI-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+  <img alt="Radiux" src="https://img.shields.io/badge/-Radix Ui-161618?style=flat-square&logo=radixui&logoColor=white" />
 
 </p>
 <hr />
