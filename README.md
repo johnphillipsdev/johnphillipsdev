@@ -89,7 +89,7 @@
 
   * 🌍  I'm based in United Kingdom
   * 🖥️ See my portfolio at [johnphillips.dev](https://www.johnphillips.dev/)
-  * ✉️  You can contact me at [development@johnphillips.dev](mailto:development@johnphillips.dev)
+  * ✉️  You can contact me at [john@johnphillips.dev](mailto:john@johnphillips.dev)
   * 🧠  I'm learning how to mix music
   * 🤝  I'm open to collaborating on interesting projects (Especially when learning new skills)
   * ⚡  I'm hooked on Ice-cream
